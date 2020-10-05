@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-nova",
+  "name": "@nkn1396/eslint-config-nova",
   "version": "1.0.0",
   "description": "Linter config for the Nova project.",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "NKN1396",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint-config-standard": "*"
+  }
 }
