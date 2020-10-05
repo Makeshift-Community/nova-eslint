@@ -1,0 +1,12 @@
+{
+  "name": "@nkn1396/eslint-config-nova",
+  "version": "1.0.0",
+  "description": "Linter config for the Nova project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NKN1396",
+  "license": "MIT"
+}
