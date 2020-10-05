@@ -15,7 +15,7 @@ module.exports = {
 	rules: {
 		"no-console": [ "off" ],
 
-		indent: [ "error", "tab", { "SwitchCase": 1 } ],
+		indent: [ "error", 2, { "SwitchCase": 1 } ],
 		"linebreak-style": [ "error", "unix" ],
 		quotes: [ "error", "double" ],
 		semi: [ "error", "never" ],
